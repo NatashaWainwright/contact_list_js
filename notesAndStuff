@@ -1,0 +1,5 @@
+<% @contacts.each do |contact| %>
+  <div>
+    <%=contact %>
+  </div>
+<% end %>
